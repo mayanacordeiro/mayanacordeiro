@@ -6,6 +6,7 @@
 #### Fique a vontade para se conectar comigo 👩🏾‍💻
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:mayanacoramos@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/mayana-cordeiro/)
+[![Medium](https://img.shields.io/badge/-Medium-000?style=for-the-badge&logo=medium&logoColor=30A3DC)](https://medium.com/@mayanacoramos)
 [![Perfil DIO](https://img.shields.io/badge/-Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/mayanacoramos)
 
 ### Stats
