@@ -1,7 +1,7 @@
-### Mayana Cordeiro
+## Mayana Cordeiro
 
-#### Olá, seja bem vindo ao meu perfil 😊
-#### Atualmente sou estudante de Desenvolvimento iOS na Apple Developer Academy - UFPE onde desenvolvo habilidades de design, inovação e computação, propondo soluções para problemas do mundo real.
+### Olá, seja bem vindo ao meu perfil 😊
+### Atualmente sou estudante de Desenvolvimento iOS na Apple Developer Academy - UFPE onde desenvolvo habilidades de design, inovação e computação, propondo soluções para problemas do mundo real.
 
 #### Fique a vontade para se conectar comigo 👩🏾‍💻
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:mayanacoramos@gmail.com)
