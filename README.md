@@ -1,5 +1,5 @@
 ## Olá, seja bem vindo(a) ao meu perfil 😊
-### Atualmente sou estudante de Desenvolvimento iOS na Apple Developer Academy - UFPE onde desenvolvo habilidades de design, inovação e computação, propondo soluções para problemas do mundo real.
+### Atualmente sou estudante de Análise e Desenvolvimento de Sistemas, fui  aluna de Desenvolvimento iOS na Apple Developer Academy - UFPE onde desenvolvi habilidades de design, inovação e computação, propondo soluções para problemas do mundo real.
 
 #### Fique a vontade para se conectar comigo 👩🏾‍💻
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=E94D5F)](mailto:mayanacoramos@gmail.com)
